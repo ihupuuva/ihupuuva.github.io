@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihupuuva.github.io/dfT/sitemap_index.txt
+Sitemap: https://ihupuuva.github.io/dvY/sitemap_index.txt
+Sitemap: https://ihupuuva.github.io/tui/sitemap_index.txt
+Sitemap: https://ihupuuva.github.io/viQ/sitemap_index.txt
